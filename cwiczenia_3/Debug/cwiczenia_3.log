@@ -1,0 +1,7 @@
+﻿  cwiczenia_3.cpp
+C:\Users\jszpr\Desktop\JPO_LAB\cwiczenia_3\cwiczenia_3.cpp(95,22): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jszpr\Desktop\JPO_LAB\cwiczenia_3\cwiczenia_3.cpp(95,40): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jszpr\Desktop\JPO_LAB\cwiczenia_3\cwiczenia_3.cpp(104,26): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jszpr\Desktop\JPO_LAB\cwiczenia_3\cwiczenia_3.cpp(105,31): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jszpr\Desktop\JPO_LAB\cwiczenia_3\cwiczenia_3.cpp(105,49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  cwiczenia_3.vcxproj -> C:\Users\jszpr\Desktop\JPO_LAB\cwiczenia_3\Debug\cwiczenia_3.exe
